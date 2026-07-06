@@ -10,7 +10,7 @@ It enables users to explore the data through interactive visuals, filters, and K
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard-preview.png)
+![Dashboard](dashboard-preview.png)
 
 ---
 
