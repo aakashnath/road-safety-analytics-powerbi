@@ -106,7 +106,7 @@ The dataset contains information related to:
 
 📧 Email: nathaakash855@gmail.com
 
-💼 LinkedIn: linkedin.com/in/aakashnath2003 
+💼 LinkedIn: https://linkedin.com/in/aakashnath2003 
 
 ---
 
