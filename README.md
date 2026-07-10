@@ -108,8 +108,6 @@ The dataset contains information related to:
 
 💼 LinkedIn: linkedin.com/in/aakashnath2003 
 
-💻 GitHub: https://github.com/yourusername
-
 ---
 
 ## ⭐ If you found this project useful, don't forget to Star the repository!
